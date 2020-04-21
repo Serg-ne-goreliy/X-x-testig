@@ -1,0 +1,8 @@
+for i in 1, 2, 3, 'one', 'two', 'three':
+    print(i)
+
+
+i = 1
+while i <= 10:
+    print(i ** 2)
+    i += 1
