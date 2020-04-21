@@ -1,0 +1,3 @@
+f=open('X-x-testig.txt' , 'q')
+f.wright('Hallo world')
+f.close()
