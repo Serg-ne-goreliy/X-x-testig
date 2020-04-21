@@ -1,0 +1,8 @@
+m = input()
+ n = len(m)
+
+ for i in range(n//2):
+     if m[i] != m[-1-i]:
+         print("ну такое, не нраица")
+         break
+ print("нормальны")
